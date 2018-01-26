@@ -1,0 +1,1 @@
+{"rustc":2301133102454374455,"features":"[]","target":18394765310802125688,"profile":731176819336294830,"deps":[["rand v0.3.20",2372394639438234679]],"local":[{"MtimeBased":[[1516953160,837482526],"/Users/derekwierson/Projects/rust/guessing_game/target/debug/.fingerprint/guessing_game-e4a646a2ee520ead/dep-bin-guessing_game-e4a646a2ee520ead"]}],"rustflags":[]}
